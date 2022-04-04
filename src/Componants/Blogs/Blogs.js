@@ -2,7 +2,7 @@ import React from 'react';
 
 const Blogs = () => {
     return (
-        <div className='px-40 py-2 mx-auto max-w-7xl bg-slate-50'>
+        <div className='px-20 md:px-20 py-2 mx-auto max-w-7xl bg-slate-50'>
             <div className='py-2'>
                 <h3 className='py-2 text-3xl font-bold'>What is Contex API?</h3>
                 <p>The React Context API is a way for a React app to effectively produce global variables that can be passed around. In a typical React application, data is passed top-down (parent to child) via props, This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier. Two basic web store apps, one built with the Context API and one without it.</p>

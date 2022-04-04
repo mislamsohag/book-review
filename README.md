@@ -1,49 +1,25 @@
 # Getting Started with Book-Review Site
 
-This This is My Book Review GitHub Link [https://github.com/programming-hero-web-course-4/product-analysis-website-mislamsohag.git](https://github.com/programming-hero-web-course-4/product-analysis-website-mislamsohag.git)
+Book Review GitHub Link [https://github.com/programming-hero-web-course-4/product-analysis-website-mislamsohag.git](https://github.com/programming-hero-web-course-4/product-analysis-website-mislamsohag.git)
 
-# Live site Link
+# Book Review Live site Link
 
-This This is My Book Review Live site Link [https://github.com/programming-hero-web-course-4/product-analysis-website-mislamsohag.git](https://github.com/programming-hero-web-course-4/product-analysis-website-mislamsohag.git)
+This This is My Book Review Live site Link [https://book-review-site.netlify.app/](https://book-review-site.netlify.app/)
 
 
-### `npm start`
+### `কাজের ধাপ`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* প্রথমত `404` রাউটটি তৈরি করেছি।
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* তারপর তৈরি করেছি `Home` রাউট।
 
-### `npm test`
+* চাকরী করার কারণে চলেযেতে হয়েছে অফিস।
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* গিটহাব তৈরি করেছি।
+
+* See the section about [deployment](https://book-review-site.netlify.app/) for more information.
 
 ### `npm run build`
 
-* Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**সবশেষে নেটলিফাইতে `Deploy`, করে আপলোড করেছি!**
 
-* The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-* See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-* See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-* See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-
-
-## Learn More
-
-
-### `npm run build` fails to minify
-
-Git Hub Link: [https://github.com/programming-hero-web-course-4/product-analysis-website-mislamsohag.git](https://github.com/programming-hero-web-course-4/product-analysis-website-mislamsohag.git)
