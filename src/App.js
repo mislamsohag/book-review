@@ -5,14 +5,26 @@ import Home from './Componants/Home/Home';
 import Header from './Componants/Header/Header';
 import Footer from './Componants/Footer/Footer';
 
+import NotFound from './Componants/NotFound/NotFound';
+import Dashboard from './Componants/Dashboard/Dashboard';
+import Blogs from './Componants/Blogs/Blogs';
+import About from './Componants/About/About';
+import Reviews from './Componants/Review/Review';
+
 function App() {
   return (
     <div className="App">
       <Header />
       <h1 className='text-center text-3xl font-bold'>বই পর্যালোচনা সাইট</h1>
+
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/home' element={<Home />} />
+        <Route path='/reviews' element={<Reviews />} />
+        <Route path='/dashboard' element={<Dashboard />} />
+        <Route path='/blogs' element={<Blogs />} />
+        <Route path='/about' element={<About />} />
+        <Route path='*' element={<NotFound />} />
       </Routes>
       <Footer />
     </div>
