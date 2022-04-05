@@ -6,7 +6,7 @@ const ReviewHomePage = () => {
     const [reviews] = useReview();
     const reviewSclce = reviews.slice(3)
     return (
-        <div>
+        <div className='grid justify-center'>
             {reviewSclce.map(review => <ReviewHomeCard key={review.id} review={review} />
             )}
         </div>
