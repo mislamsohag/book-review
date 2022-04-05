@@ -4,10 +4,11 @@ import ReviewHomeCard from './ReviewHomeCard';
 
 const ReviewHomePage = () => {
     const [reviews] = useReview();
+    const reviewSclce = reviews.slice(3)
 
     return (
         <div>
-            {reviews.map(review => <ReviewHomeCard key={review.id} review={review} />
+            {reviewSclce.map(review => <ReviewHomeCard key={review.id} review={review} />
             )}
         </div>
     );
