@@ -13,6 +13,7 @@ const Navbar = () => {
                 <CustomLink to='/dashboard'>Dashboard</CustomLink>
                 <CustomLink to='/blogs'>Blogs</CustomLink>
                 <CustomLink to='/about'>About</CustomLink>
+                <CustomLink to='/login'>Login</CustomLink>
             </div>
         </div>
     );

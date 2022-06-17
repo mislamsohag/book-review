@@ -11,7 +11,7 @@ const Dashboard = () => {
             .then(res => res.json())
             .then(data => setChatData(data))
     }, [])
-    console.log(chatData)
+    // console.log(chatData)
 
     return (
         <div className='px-4 pt-20 pb-24 mx-auto max-w-7xl'>

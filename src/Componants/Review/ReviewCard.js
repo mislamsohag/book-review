@@ -3,7 +3,7 @@ import React from 'react';
 const ReviewCard = ({ review }) => {
     const { customerReview, name, country, image, rating } = review;
     return (
-        <section class="p-2">
+        <section className="p-2">
             <div className="antialiased bg-gray-200 text-gray-900 font-sans p-6">
                 <div className="container mx-auto">
                     <div className="flex flex-wrap -mx-4">
